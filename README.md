@@ -1,6 +1,6 @@
 # Sales Data Analysis
 
-![Picture](top_category_by_profit.png)
+![Picture](product_profit_region_country.png)
 
 An in-depth analysis of sales transactions to uncover revenue patterns, product performance, and strategic sales insights across multiple years.
 
